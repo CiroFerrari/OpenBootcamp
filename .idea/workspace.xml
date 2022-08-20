@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d5e364-f716-48ba-88c9-d062478744b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/1-IntroduccionALaProgramacion/ResolucionEjercicios/Tema3/Tema3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-IntroduccionALaProgramacion/ResolucionEjercicios/Tema4/Tema4.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-HTML-CSS/Tema1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +29,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/francociroferrari/Desktop/OpenBootcamp"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/francociroferrari/Desktop/OpenBootcamp",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Certificaciones" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,8 +47,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660734390037</updated>
+      <workItem from="1661003233693" duration="190000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
