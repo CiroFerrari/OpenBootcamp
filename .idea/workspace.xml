@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d5e364-f716-48ba-88c9-d062478744b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-HTML-CSS/Tema1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-HTML-CSS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-HTML-CSS/.idea/2-HTML-CSS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-HTML-CSS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-HTML-CSS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-HTML-CSS/Tema1/Tema1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DTsQFIqPm8jvN6KtKh0NWKEnyO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/francociroferrari/Desktop/OpenBootcamp",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660734390037</updated>
       <workItem from="1661003233693" duration="190000" />
+      <workItem from="1661005181459" duration="67000" />
     </task>
     <servers />
   </component>
